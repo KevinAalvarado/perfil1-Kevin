@@ -17,4 +17,13 @@ body {
 p,
 h5 {
     color: white;
+    padding-left: 30%;
+}
+.carousel-item{
+    width: 80%;
+    height: 80%;
+    padding-left: 20%;
+}
+footer{
+    padding-right: 25%;
 }
